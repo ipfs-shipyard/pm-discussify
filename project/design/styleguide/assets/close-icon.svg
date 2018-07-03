@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>close-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="style-guide_v01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="discussify_style-guide" transform="translate(-451.000000, -2549.000000)">
+            <g id="icons" transform="translate(343.000000, 2549.000000)">
+                <g id="icons-24px" transform="translate(2.000000, 0.000000)">
+                    <g id="close-icon" transform="translate(106.000000, 0.000000)">
+                        <rect id="close-icon_BG" x="2" y="2" width="20" height="20"></rect>
+                        <path d="M12,11.293641 L21.1473492,2.14629174 C21.3424049,1.95123609 21.6586526,1.95123609 21.8537083,2.14629174 C22.0487639,2.3413474 22.0487639,2.6575951 21.8537083,2.85265076 L12.706359,12 L21.8537083,21.1473492 C22.0487639,21.3424049 22.0487639,21.6586526 21.8537083,21.8537083 C21.6586526,22.0487639 21.3424049,22.0487639 21.1473492,21.8537083 L12,12.706359 L2.85265076,21.8537083 C2.6575951,22.0487639 2.3413474,22.0487639 2.14629174,21.8537083 C1.95123609,21.6586526 1.95123609,21.3424049 2.14629174,21.1473492 L11.293641,12 L2.14629174,2.85265076 C1.95123609,2.6575951 1.95123609,2.3413474 2.14629174,2.14629174 C2.3413474,1.95123609 2.6575951,1.95123609 2.85265076,2.14629174 L12,11.293641 Z" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
