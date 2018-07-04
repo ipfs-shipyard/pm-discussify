@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Nunito Sans';
+    src: url('NunitoSans-Bold.eot');
+    src: url('NunitoSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NunitoSans-Bold.woff2') format('woff2'),
+        url('NunitoSans-Bold.woff') format('woff'),
+        url('NunitoSans-Bold.svg#NunitoSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    src: url('NunitoSans-Light.eot');
+    src: url('NunitoSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('NunitoSans-Light.woff2') format('woff2'),
+        url('NunitoSans-Light.woff') format('woff'),
+        url('NunitoSans-Light.svg#NunitoSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    src: url('NunitoSans-Regular.eot');
+    src: url('NunitoSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NunitoSans-Regular.woff2') format('woff2'),
+        url('NunitoSans-Regular.woff') format('woff'),
+        url('NunitoSans-Regular.svg#NunitoSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
