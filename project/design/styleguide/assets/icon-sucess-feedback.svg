@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>verified-icon</title>
+    <title>icon-sucess-feedback</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="discussify_style-guide" transform="translate(-1165.000000, -3448.000000)">
+        <g id="discussify_style-guide" transform="translate(-1302.000000, -3448.000000)">
             <g id="iconography" transform="translate(343.000000, 3261.000000)">
                 <g id="icons-16px" transform="translate(639.000000, 187.000000)">
-                    <g id="verified-icon" transform="translate(183.000000, 0.000000)">
-                        <rect id="verified-icon_BG" x="0" y="0" width="16" height="16"></rect>
-                        <path d="M8,15 C4.13400675,15 1,11.8659932 1,8 C1,4.13400675 4.13400675,1 8,1 C11.8659932,1 15,4.13400675 15,8 C15,11.8659932 11.8659932,15 8,15 Z M11.2453693,5 L6.77934204,9.46750805 L4.73538867,7.52340461 L4,8.29621005 L6.79812141,10.9576394 L12,5.75403605 L11.2453693,5 Z" fill="#000000"></path>
+                    <g id="icon-sucess-feedback" transform="translate(320.000000, 0.000000)">
+                        <rect id="icon-sucess-feedback_BG" x="0" y="0" width="16" height="16"></rect>
+                        <path d="M13.8108652,2 C11.3814406,4.44442529 8.58630181,7.24363229 6.06029779,9.78192475 L1.99597586,6.30702926 L0,8.67465414 L5.15090543,13.070896 L6.23748893,14 L7.24346076,12.981942 C9.98812072,10.2202301 13.2501891,6.95660044 16,4.18997543 L13.8108652,2 Z" fill="#000000"></path>
                     </g>
                 </g>
             </g>

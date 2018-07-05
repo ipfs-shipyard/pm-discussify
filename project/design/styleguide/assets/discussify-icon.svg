@@ -4,12 +4,14 @@
     <title>discussify-icon</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="style-guide_v01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="discussify_style-guide" transform="translate(-1162.000000, -7622.000000)" fill="#0A6ADB">
-            <g id="content-components" transform="translate(341.000000, 5500.000000)">
-                <g id="pop-over" transform="translate(642.000000, 2002.000000)">
-                    <g id="dicussify-icon" transform="translate(137.000000, 120.000000)">
-                        <path d="M65.2568807,0 L42,0 L42,38.5137615 L49.9220183,38.5137615 L49.9220183,6.88073394 L65.2568807,6.88073394 C71.9174312,6.88073394 77.8027523,12.1651376 77.8027523,19.146789 C77.8027523,26.2477064 71.8577982,31.5321101 65.2568807,31.5825688 L56.8256881,31.6100917 L49.9220183,38.5137615 L65.2568807,38.5137615 C76.8165138,38.5137615 86,30.5366972 86,19.146789 C86,7.87155963 76.8165138,0 65.2568807,0" id="discussify-icon"></path>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="discussify_style-guide" transform="translate(-1164.000000, -11142.000000)" fill="#0A6ADB">
+            <g id="content-components" transform="translate(345.000000, 8608.000000)">
+                <g id="Popup" transform="translate(640.000000, 2331.000000)">
+                    <g id="pop-over" transform="translate(0.000000, 83.000000)">
+                        <g id="dicussify-icon" transform="translate(137.000000, 120.000000)">
+                            <path d="M65.2568807,0 L42,0 L42,38.5137615 L49.9220183,38.5137615 L49.9220183,6.88073394 L65.2568807,6.88073394 C71.9174312,6.88073394 77.8027523,12.1651376 77.8027523,19.146789 C77.8027523,26.2477064 71.8577982,31.5321101 65.2568807,31.5825688 L56.8256881,31.6100917 L49.9220183,38.5137615 L65.2568807,38.5137615 C76.8165138,38.5137615 86,30.5366972 86,19.146789 C86,7.87155963 76.8165138,0 65.2568807,0" id="discussify-icon"></path>
+                        </g>
                     </g>
                 </g>
             </g>
