@@ -24,5 +24,4 @@ Note that all planning happens under [`project/design/planning`](project/design/
 
 ## Roadmap
 
-- TODO: define key milestones.
-- TODO: define Decentralised Web Summit goals.
+TODO: define key milestones.
