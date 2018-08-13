@@ -23,6 +23,8 @@ Discuss the web.
 
 All work is organised on GitHub, through issues and this repository. We use [Waffle](https://waffle.io/ipfs-shipyard/pm-discussify) to organize ourselves and to plan sprints.
 
+Every commit should be following [Conventional Commits](https://conventionalcommits.org/) guidelines. To avoid mistakes, there's a precommit hook that will validate all commits made to this repository. Please run `$ npm install` in your terminal before committing.
+
 ### Design
 
 If you'd like an overview of the project folder structure, have a look at the [Design Workflow](design-workflow.md).
@@ -56,7 +58,7 @@ Key goals:
 - Verify ownership of the comments via signatures, also detailed in the RFC
 
 Approximate end date: 19th October   
-Desired end in time: 12th October because [MozFest](https://mozillafestival.org/) happening 22nd-28th October
+Desired end in time: 12th October because [MozFest](https://mozillafestival.org/) is happening 22nd-28th October
 
 ### MVP
 

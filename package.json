@@ -1,0 +1,34 @@
+{
+  "name": "pm-discussify",
+  "version": "0.0.0",
+  "description": "Discussify's project management repository",
+  "scripts": {
+    "commitmsg": "commitlint -e $GIT_PARAMS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipfs-shipyard/pm-discussify.git"
+  },
+  "keywords": [
+    "discussify",
+    "project-management",
+    "design",
+    "planning"
+  ],
+  "author": "André Cruz <andre@moxy.studio>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ipfs-shipyard/discussify/issues"
+  },
+  "homepage": "https://github.com/ipfs-shipyard/discussify#readme",
+  "devDependencies": {
+    "@commitlint/config-conventional": "^7.0.1",
+    "commitlint": "^7.0.0",
+    "husky": "^0.14.3"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  }
+}
