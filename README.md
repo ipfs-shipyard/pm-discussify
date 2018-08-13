@@ -14,7 +14,7 @@ Discuss the web.
 
 ## Contributing
 
-All work is organised on Github, through issues and this repository.
+All work is organised on GitHub, through issues and this repository.
 
 ### Design
 
@@ -24,4 +24,42 @@ Note that all planning happens under [`project/design/planning`](project/design/
 
 ## Roadmap
 
-TODO: define key milestones.
+### POC - phase 1:
+
+Key goals:
+  - Develop a browser extension
+  - Authentication using uPort until "POC - phase 2"
+  - Ability to view a discussion happening on the current webpage
+  - Create, remove, edit comments
+
+Approximate end date: 21th September
+
+### POC - phase 2:
+
+Key goals:
+
+- Ability for users to authenticate themselves using the strategy outlined in [this RFC](https://github.com/ipfs-shipyard/peer-star/pull/15)
+- Verify ownership of the comments via signatures, also detailed in the RFC
+
+Approximate end date: 19th October   
+Desired end in time: 12th October because [MozFest](https://mozillafestival.org/) happening 22nd-28th October
+
+### MVP
+
+Key goals:
+
+- Capabilities, ensuring the changes performed by users are allowed
+- Ability to view discussions I've participated
+- Ability to know which discussions have new comments or replies
+
+Approximate end date:
+
+### v1
+
+Key goals:
+
+- Ability to discuss on specific parts of the page, using [Web Annotations](https://www.w3.org/annotation/)
+- Ability to have private discussions
+- Have a stable product with replication integrated
+
+Approximate end date:
