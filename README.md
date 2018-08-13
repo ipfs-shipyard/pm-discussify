@@ -12,6 +12,13 @@ Discuss the web.
 [💎 Brand Identity](project/design/planning/brand-identity.md)  
 [📱 Prototype](project/design/planning/prototype.md)  
 
+## Team
+
+- [André Cruz](https://github.com/satazor) - Software engineer
+- [André Sousa](https://github.com/andreforsousa) - Designer
+- [Marco Oliveira](https://github.com/marcooliveira) - Product engineer
+- [Pedro Teixeira](https://github.com/pgte) - Project manager / [`peer-star-app`](https://github.com/ipfs-shipyard/peer-star-app) support
+
 ## Contributing
 
 All work is organised on GitHub, through issues and this repository.
