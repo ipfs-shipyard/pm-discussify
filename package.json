@@ -2,6 +2,7 @@
   "name": "pm-discussify",
   "version": "0.0.0",
   "description": "Discussify's project management repository",
+  "private": true,
   "scripts": {
     "commitmsg": "commitlint -e $GIT_PARAMS"
   },
