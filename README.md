@@ -22,6 +22,13 @@ If you'd like an overview of the project folder structure, have a look at the [D
 
 Note that all planning happens under [`project/design/planning`](project/design/planning).
 
+### Codebase
+
+The codebase lives in separate GitHub repositories:
+
+- [`discussify-styleguide`](https://github.com/ipfs-shipyard/discussify-styleguide) - React components shared by the browser-extension, the web app and the iframe/embed.
+- [`discussify-browser-extension`](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify's browser extension app
+
 ## Roadmap
 
 ### POC - phase 1:
