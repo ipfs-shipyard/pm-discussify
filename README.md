@@ -21,7 +21,7 @@ Discuss the web.
 
 ## Contributing
 
-All work is organised on GitHub, through issues and this repository.
+All work is organised on GitHub, through issues and this repository. We use [Waffle](https://waffle.io/ipfs-shipyard/pm-discussify) to organize ourselves and to plan sprints.
 
 ### Design
 
