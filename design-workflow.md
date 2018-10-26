@@ -36,7 +36,7 @@ What happens if down the road, and let's say you're in version `17`, and you abs
 
 If you're confused on what `a` and `b` mean, they are different approaches to the same brochure. Do not get it confused with versions. A version, is another iteration on the same concept, while an `approach` is a different concept. If you're doing an halloween brochure, you might try two different concepts, one around pumpkins and another around witches, and each will have different versions while you iterate on them. This would translate into having files like `brochure_pumpkins_1.png`, `brochure_pumpkins_2.png`, `brochure_pumpkins_3.png`, and so on, and `brochure_witches_1.png`, `brochure_witches_2.png`, `brochure_witches_3.png` and so on.
 
-### Organising filling folders
+### Organising filing folders
 
 Projects are typically composed of several subjects/sections, which then need to be organised. In order to avoid scalability issues, these folders follow a few conventions.
 
