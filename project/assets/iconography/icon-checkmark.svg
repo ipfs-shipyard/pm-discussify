@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-checkmark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="discussify_style-guide" transform="translate(-1257.000000, -3518.000000)">
+            <g id="iconography" transform="translate(342.000000, 3331.000000)">
+                <g id="icons-16px" transform="translate(640.000000, 187.000000)">
+                    <g id="icon-checkmark" transform="translate(275.000000, 0.000000)">
+                        <rect id="icon-checkmark_BG" x="0" y="0" width="16" height="16"></rect>
+                        <path d="M13.8108652,2 C11.3814406,4.44442529 8.58630181,7.24363229 6.06029779,9.78192475 L1.99597586,6.30702926 L0,8.67465414 L5.15090543,13.070896 L6.23748893,14 L7.24346076,12.981942 C9.98812072,10.2202301 13.2501891,6.95660044 16,4.18997543 L13.8108652,2 Z" fill="#000000"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

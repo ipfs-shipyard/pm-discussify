@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-crossmark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="discussify_style-guide" transform="translate(-1303.000000, -3518.000000)">
+            <g id="iconography" transform="translate(342.000000, 3331.000000)">
+                <g id="icons-16px" transform="translate(640.000000, 187.000000)">
+                    <g id="icon-crossmark" transform="translate(321.000000, 0.000000)">
+                        <rect id="icon-crossmark_BG" x="0" y="0" width="16" height="16"></rect>
+                        <path d="M10.2895499,7.99835081 C12.5766288,10.2775821 14.612101,12.30583 15,12.6933571 L12.6689881,15 L8,10.3020855 L3.33101187,15 L1,12.6933571 C1.387899,12.30583 3.42337124,10.2775821 5.71045008,7.99835081 L1,3.25871747 L3.27101163,1 C3.95760927,1.68683351 5.89165201,3.61512646 8,5.71652766 C10.108348,3.61512646 12.0423907,1.68683351 12.7289884,1 L15,3.25871747 L10.2895499,7.99835081 Z" fill="#000000"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
