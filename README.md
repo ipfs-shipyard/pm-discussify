@@ -87,3 +87,7 @@ Key goals:
 - [ ] Ability to invite other people to a public discussion, even if the invitee does not have Discussify installed. This would potentially mean creating a protocol for inviting for a generic collaboration, through IDM, which would require installing an additional app.
 - [ ] Ensure that it's performant, stable and not resource hungry.
 - [ ] Define (and execute) a plan for the launch of Discussify as a decentralized product.
+
+## Privacy Policy
+
+You can find and read our privacy policy [here](/PRIVACY_POLICY.md).
