@@ -56,7 +56,7 @@ Key goals:
   - [x] Ability to view a discussion happening on the current webpage.
   - [x] Create, remove, edit comments.
   - [x] Reply comments.
-  - [ ] Release for BETA testing.
+  - [x] Release for BETA testing.
 
 ### POC phase 2:
 
